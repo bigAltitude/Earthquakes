@@ -1,5 +1,7 @@
 
 
+
+
 ### **README.md**
 
 # Earthquake Triangulator (Time Domain)
@@ -7,6 +9,13 @@
 ## 📌 Overview
 
 This program simulates **earthquake triangulation** using **seismic station arrival times**. It places **random monitoring stations** in a 30 km radius, generates a random earthquake **between 500m and 10,000m underground**, and estimates its location using **least squares minimization** based on the time it takes for seismic waves to reach each station.
+
+---
+## See Video
+
+〚  [Youtube Explaination Video](https://studio.youtube.com/video/QIMX9HYyIVk/edit)  〛
+
+---
 
 ### 🔥 Features:
 - **Randomly placed earthquake event** beneath the stations.
@@ -159,6 +168,14 @@ This project is **open-source** under **CC**.
 - 🔄 **Variable wave speeds** (different layers of Earth).
 - 🎛 **User input options** (manual earthquake input).
 - 🔥 **Real earthquake data integration** from APIs.
+
+---
+
+## Need Help?
+Feel free to **open an issue** or **contribute!** 🚀
+
+
+
 
 ---
 
